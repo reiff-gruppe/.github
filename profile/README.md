@@ -1,8 +1,8 @@
-Willkommen auf der Github Seite von REIFF Technische Produkte GmnbH
+Willkommen auf der Github Seite von REIFF Technische Produkte GmbH
 
 # Zugangsanfragen für externe Mitarbeiter
 
-Um einen reibungslosen und sicheren Zugang zu unseren IT-Ressourcen zu gewährleisten, haben wir Richtlinien für den Zugangsantrag etabliert. 
+Um einen reibungslosen und sicheren Zugang zu unseren IT-Ressourcen zu gewährleisten, haben wir Richtlinien für den Zugang zu unseren Github Repositories etabliert. 
 Diese Richtlinien gewährleisten, dass alle Beteiligten die notwendigen Zugriffsrechte erhalten und unsere internen Sicherheitsstandards eingehalten werden.
 
 ## Zugangsantrag
